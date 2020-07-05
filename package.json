@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-sample",
+  "version": "0.0.0",
+  "description": "puppeteer-sample",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.2.1",
+    "puppeteer": "^5.0.0"
+  }
+}
